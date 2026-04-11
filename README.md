@@ -19,7 +19,7 @@ This project explores multiple breast cancer datasets to identify patterns for:
 
 ---
 
-[RESENTATION LINK HERE](https://canva.link/myyozjj8d3d73fo)
+[PRESENTATION LINK HERE](https://canva.link/myyozjj8d3d73fo)
 
 ---
 
