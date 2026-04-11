@@ -5,6 +5,8 @@
 **GitHub:** https://github.com/danillodbs16/Breast_Cancer_Analysis  
 
 ---
+![Dash Test GIF](img/dash_test.gif)
+---
 
 ## 📌 Overview
 This project explores multiple breast cancer datasets to identify patterns for:
