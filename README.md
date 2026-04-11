@@ -5,7 +5,9 @@
 **GitHub:** https://github.com/danillodbs16/Breast_Cancer_Analysis  
 
 ---
-![Dash Test GIF](img/dash_test.gif)
+![Superset Dash Test GIF](img/dash_test.gif)
+
+![Plotly Dash Test GIF](img/plotly_dash_test.gif)
 ---
 
 ## 📌 Overview
