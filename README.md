@@ -30,6 +30,9 @@ This project explores multiple breast cancer datasets to identify patterns for:
 │   ├── notebooks/      # Jupyter notebooks for analysis and exploration
 │   ├── utils/          # Helper functions and utilities
 │   └── data/           # Processed datasets
+├── extra/              # Additional outputs (HTML visualizations and dashboard)
+│   ├── html/           # Interactive HTML plots and visualizations
+│   └── dashboard/      # Exported dashboard files (e.g., Superset)
 ```
 
 ---
