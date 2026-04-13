@@ -6,8 +6,8 @@
 
 ---
 <p align="center">
-  <img src="img/dash_test.gif" width="80%"><br>
-  <img src="img/plotly_dash_test.gif" width="80%">
+  <img src="img/dash_test.gif" width="100%"><br>
+  <img src="img/plotly_dash_test.gif" width="100%">
 </p>
 ---
 
