@@ -5,9 +5,10 @@
 **GitHub:** https://github.com/danillodbs16/Breast_Cancer_Analysis  
 
 ---
-![Superset Dash Test GIF](img/dash_test.gif)
-
-![Plotly Dash Test GIF](img/plotly_dash_test.gif)
+<p>
+  <img src="img/dash_test.gif" width="500"><br>
+  <img src="img/plotly_dash_test.gif" width="500">
+</p>
 ---
 
 ## 📌 Overview
