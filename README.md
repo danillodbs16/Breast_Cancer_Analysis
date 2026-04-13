@@ -5,9 +5,9 @@
 **GitHub:** https://github.com/danillodbs16/Breast_Cancer_Analysis  
 
 ---
-<p>
-  <img src="img/dash_test.gif" width="500"><br>
-  <img src="img/plotly_dash_test.gif" width="500">
+<p align="center">
+  <img src="img/dash_test.gif" width="80%"><br>
+  <img src="img/plotly_dash_test.gif" width="80%">
 </p>
 ---
 
