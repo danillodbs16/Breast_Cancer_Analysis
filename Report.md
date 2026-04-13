@@ -253,4 +253,4 @@ We investigate three breast cancer datasets: One categorical, one numerical, and
 3. Creation of dashboards in UNIX platforms
 
 ## 6. **Future Work**
-We are willing to use the current analysis to construct predictive models for tumor classification.n.
+We are willing to use the current analysis to construct predictive models for tumor classification.
